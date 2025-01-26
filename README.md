@@ -1,1 +1,4 @@
-This repository contains screenshots of Power BI Visualizations created by me as part of Microsoft Data Visualization course in Coursera...These files contain different types of visualizations such as line and bar charts, pie chart, ribbon chart, waterfall chart etc.
+This repository contains screenshots of Power BI Visualizations created by me as part of Microsoft Data Visualization course in Coursera. Here, different types of sales reports are created for a fictious company called Adventure works which include line charts, bar charts, tree maps, pie charts, key performance indicators and so on. 
+
+
+
